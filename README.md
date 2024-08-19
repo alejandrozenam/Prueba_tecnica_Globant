@@ -12,7 +12,7 @@ Este reto consiste en 2 secciones:
 - Cargar arhivos CSV mediante POST requests hacia una base de datos en SQLite.
 - Obtener resultados (data) mediante GET requests que engatillan consultas SQL en la base de datos.
 
-## Prerequisitos
+## Prerrequisitos
 
 - Flask
 - SQLAlchemy
@@ -52,7 +52,7 @@ Este reto consiste en 2 secciones:
  - Ejemplo usando Postman:
     - URL: `http://localhost:5000/Question2_NumberEmployees`
     - Método: `GET`
-    - Scripts:  ```
+    - Scripts:  ```html
     var template = `
         <table style="width:100%" border=1>
             <tr bgcolor="#50b9f2">
@@ -86,7 +86,7 @@ Este reto consiste en 2 secciones:
  - Ejemplo usando Postman:
     - URL: `http://localhost:5000/Question3_Department_NumberEmployees`
     - Método: `GET`
-    - Scripts:  ```
+    - Scripts:  ```html
     var template = `
         <table style="width:100%" border=1>
             <tr bgcolor="#50b9f2">
