@@ -52,7 +52,8 @@ Este reto consiste en 2 secciones:
  - Ejemplo usando Postman:
     - URL: `http://localhost:5000/Question2_NumberEmployees`
     - Método: `GET`
-    - Scripts:  ```html
+    - Scripts:
+    ```html
     var template = `
         <table style="width:100%" border=1>
             <tr bgcolor="#50b9f2">
@@ -86,7 +87,8 @@ Este reto consiste en 2 secciones:
  - Ejemplo usando Postman:
     - URL: `http://localhost:5000/Question3_Department_NumberEmployees`
     - Método: `GET`
-    - Scripts:  ```html
+    - Scripts:
+    ```html
     var template = `
         <table style="width:100%" border=1>
             <tr bgcolor="#50b9f2">
