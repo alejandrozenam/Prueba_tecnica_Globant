@@ -12,7 +12,7 @@ Este reto consiste en 2 secciones:
 - Cargar arhivos CSV mediante POST requests hacia una base de datos en SQLite.
 - Obtener resultados (data) mediante GET requests que engatillan consultas SQL en la base de datos.
 
-## Prerequisites
+## Prerequisitos
 
 - Flask
 - SQLAlchemy
