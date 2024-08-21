@@ -116,3 +116,18 @@ Este reto consiste en 2 secciones:
     - `config.py`: Archivo de configuración para la conexión a la base de datos y parametros.
 - Carpeta docs: Archivos csv y capturas de pantallas
 - `requirements.txt`: Lista de dependencias.
+
+## Docker
+
+1. Instalar Docker y Docker Compose (En las versiones más recientes de Docker Desktop (para Windows y macOS), Docker Compose ya viene incluido.)
+
+2. Clonar el repositorio (Ubicarse en la carpeta donde esta el docker-compose.yml).
+
+3. Ejecutar el comando:
+    ```
+    docker-compose up
+    ```
+4. Una vez finalizado las pruebas, ejecutar el comando:
+    ```
+    docker-compose down
+    ```
